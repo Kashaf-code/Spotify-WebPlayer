@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+![Spotify screenshot](https://github.com/Kashaf-code/Spotify-WebPlayer/assets/143132945/f5f89cd9-8bbe-48a0-8bdc-34da955863fb)
+![Spotify screenshot-2](https://github.com/Kashaf-code/Spotify-WebPlayer/assets/143132945/d1dee3be-a0ba-4280-9fd1-d733879cbaa0)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
