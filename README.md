@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Spotify - Web Player
 ![Spotify screenshot](https://github.com/Kashaf-code/Spotify-WebPlayer/assets/143132945/f5f89cd9-8bbe-48a0-8bdc-34da955863fb)
 ![Spotify screenshot-2](https://github.com/Kashaf-code/Spotify-WebPlayer/assets/143132945/d1dee3be-a0ba-4280-9fd1-d733879cbaa0)
 
